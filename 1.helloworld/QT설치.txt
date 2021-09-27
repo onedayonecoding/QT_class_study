@@ -1,0 +1,12 @@
+리눅스:
+sudo apt-get install qt5-default qtbase5-dev qtdeclarative5-dev qt5-qmake qtcreator libqt5gui5 qtscript5-dev qtmultimedia-dev libqt5multimedia5-plugins qtquickcontrols2-5-dev
+libqt5network5 cmake build-essential
+설치후 qmake -v로 버전 확인
+
+윈도우 :
+1. 크롬에서 qt.io 주소검색
+2. 우측 상단 develop 클릭
+3. 하단 downloadQT 클릭
+4. 4번에 있는 Downloads for open source users에 go open source 클릭
+5. 중간에 download at online installer 클릭
+6. 회원 가입후 다운로드
